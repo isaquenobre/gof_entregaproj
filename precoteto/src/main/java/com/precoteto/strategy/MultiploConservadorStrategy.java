@@ -1,7 +1,5 @@
 package com.precoteto.strategy;
 
-//package com.exemplo.precoteto.strategy;
-
 import org.springframework.stereotype.Component;
 
 @Component("conservador")
